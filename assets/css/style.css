@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  background-image: url("../images/laptop-image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  margin-bottom: 0;
+
+}
+
+
+h2{
+  font-family: 'Hind Madurai', sans-serif;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: 'Archivo Black', sans-serif;
+}
+
+#def {
+  font-family: 'Kaushan Script', cursive;
+}
+
+p {
+  color:white;
+}
+.bio {
+  color:white;
+  font-size: 18px;
+  margin-top: -10px;
+  font-size: 16px;
+  margin-bottom: 8px;
+
+}
+
+.me {
+  height: 150px;
+  border-radius:100%;
+  border-style: solid;
+  border-color: white;
+  margin-top: 40px;
+}
+
+.about {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+#envelope {
+  margin-left: 220px;
+}
+
+.social-icons {
+  margin-left: -300px;
+}
+
+.skills {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.logos {
+  margin-right: 20px;
+}
+
+
+.skills, #jacob{
+  border-radius: 50%;
+}
+
+h3 {
+  font-family: 'Archivo Black', sans-serif;
+  color: white;
+}
+
+i {
+  font-size: 30px;
+}
+
+.betting {
+  color: white;
+}
+
+.projects {
+  margin-bottom: 30px;
+}
+
+.email {
+  color: white !important;
+}
