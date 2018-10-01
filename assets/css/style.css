@@ -114,3 +114,8 @@ i {
 .email {
   color: white !important;
 }
+
+a {
+  text-decoration: none;
+  color: #5998ff;
+}
